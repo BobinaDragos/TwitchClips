@@ -1,0 +1,16 @@
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\RandomClips\bin\Debug\RandomClips.exe.config
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\RandomClips\bin\Debug\RandomClips.exe
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\RandomClips\bin\Debug\RandomClips.pdb
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\RandomClips\bin\Debug\Interop.WMPLib.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\RandomClips\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\RandomClips\obj\Debug\RandomClips.csproj.AssemblyReference.cache
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\RandomClips\obj\Debug\RandomClips.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\RandomClips\obj\Debug\Interop.WMPLib.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\RandomClips\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\RandomClips\obj\Debug\RandomClips.csproj.ResolveComReference.cache
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\RandomClips\obj\Debug\RandomClips.Form1.resources
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\RandomClips\obj\Debug\RandomClips.Properties.Resources.resources
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\RandomClips\obj\Debug\RandomClips.csproj.GenerateResource.cache
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\RandomClips\obj\Debug\RandomClips.csproj.CoreCompileInputs.cache
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\RandomClips\obj\Debug\RandomClips.exe
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\RandomClips\obj\Debug\RandomClips.pdb
